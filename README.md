@@ -1,16 +1,3 @@
-Got it — I will rewrite the **entire README** again from scratch,
-**matching Jay’s repository structure exactly**,
-**but updated to reflect YOUR project**, including:
-
-✔ only **AAPL, GOOGL, AMZN** streamed
-✔ same folder structure as Jay
-✔ clean, professional format
-✔ ready to paste into GitHub
-
-Here is your final polished README.md:
-
----
-
 # 📈 Real-Time Stock Market Analytics Pipeline — Modern Data Stack Project
 
 This project showcases a complete **real-time data engineering pipeline** using the **Modern Data Stack (MDS)**.
