@@ -7,11 +7,7 @@ It streams live stock market data, lands it in object storage, orchestrates inge
 
 ## 🏗️ Architecture Overview
 
-```
 ![image](https://github.com/user-attachments/assets/45f3ef22-e220-4a4d-b14f-22d00cdf941d)
-
-
----
 
 ## ⚡ Tech Stack
 
