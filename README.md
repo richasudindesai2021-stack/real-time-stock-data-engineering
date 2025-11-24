@@ -38,7 +38,7 @@ It streams live stock market data, lands it in object storage, orchestrates inge
 ### **Visualization**
 
 * Power BI Dashboard connected to Snowflake
-
+*https://drive.google.com/file/d/1CRPMR11gp6ZKte4ttat6byKKXWMxoJVw/view?usp=sharing*
 ---
 
 ## 📌 Key Features
