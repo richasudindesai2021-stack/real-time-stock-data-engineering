@@ -8,15 +8,8 @@ It streams live stock market data, lands it in object storage, orchestrates inge
 ## 🏗️ Architecture Overview
 
 ```
-Finnhub API 
-   → Kafka Producer 
-   → Kafka Broker 
-   → Kafka Consumer 
-   → MinIO (Bronze Storage)
-   → Airflow DAG 
-   → Snowflake (Bronze → Silver → Gold via dbt)
-   → Power BI Analytics Dashboard
-```
+![image](https://github.com/user-attachments/assets/45f3ef22-e220-4a4d-b14f-22d00cdf941d)
+
 
 ---
 
