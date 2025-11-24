@@ -186,7 +186,7 @@ Includes:
 * Candlestick OHLC chart
 * Tree map of price trends
 * KPIs & metrics
-* Real-time comparison visuals for AAPL, AMZN, GOOGL
+* Real-time comparison visuals for Apple, Amazon, Google
 
 ---
 
